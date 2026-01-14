@@ -2,7 +2,7 @@
 
 A beautiful weather application that displays real-time weather information for any city using the OpenWeatherMap API.
 
-![Weather App Preview](images/preview.png)
+![Weather App Preview](./images/preview.png)
 
 ## ✨ Features
 
